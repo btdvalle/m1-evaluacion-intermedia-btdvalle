@@ -25,6 +25,7 @@ ul{
 .logo{
     text-align: center;
     padding-top: 10px;
+    widows: 155px;
 }
 
 .menu{
@@ -67,6 +68,12 @@ ul{
         font-size: 40px;
     }
     .menu{
-    
+        line-height: 75px;
+        padding-left: 30px;
+    }
+
+    .logo{
+        padding: 20px;
+        padding-right: 30px;
     }
  }
